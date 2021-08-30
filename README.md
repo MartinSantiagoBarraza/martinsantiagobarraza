@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-martinsantiagobarraza.vercel.app/](https://portfolio-martinsantiagobarraza.vercel.app/)
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javascript** and **football**
 
 - 📫 How to reach me **martinsbarraza@gmail.com**
 
