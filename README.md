@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A passionate React & Node.js developer from Argentina</h3>
+<h3 align="center">A passionate Go & React developer from Buenos Aires, Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsantiagobarraza&label=Profile%20views&color=0e75b6&style=flat" alt="martinsantiagobarraza" /> </p>
 
 - 🔭 I’m currently working on [Fulbo E-commerce](https://fulbo-ecommerce-martinsantiagobarraza.vercel.app/)
 
-- 🌱 I’m currently learning **more about Node.js and Sails.js**
+- 🌱 I’m currently learning **more about Golang and MySQL**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-martinsantiagobarraza.vercel.app/](https://portfolio-martinsantiagobarraza.vercel.app/)
 
-- 💬 Ask me about **javascript** and **football**
+- 💬 Ask me about **Go** and **football**
 
 - 📫 How to reach me **martinsbarraza@gmail.com**
 
