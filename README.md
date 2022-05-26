@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript** and **football**
 
-- 📫 How to reach me **martinsbarraza@gmail.com**
+- 📫 How to reach me: **martinsbarraza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
