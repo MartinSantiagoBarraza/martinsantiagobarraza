@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsantiagobarraza&label=Profile%20views&color=0e75b6&style=flat" alt="martinsantiagobarraza" /> </p>
 
-- 🌱 I’m currently learning **more about React and Next.js**
+- 🌱 I’m currently learning more about **Gin**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-martinsantiagobarraza.vercel.app/](https://portfolio-martinsantiagobarraza.vercel.app/)
 
-- 💬 Ask me about **Javascript** and **football**
+- 💬 Ask me about **Web Development** and **football**
 
 - 📫 How to reach me: **martinsbarraza@gmail.com**
 
