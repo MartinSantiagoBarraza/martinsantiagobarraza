@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsantiagobarraza&label=Profile%20views&color=0e75b6&style=flat" alt="martinsantiagobarraza" /> </p>
 
-- 🔭 I’m currently working on [Kotlin Challenge for Alkemy](https://www.alkemy.org/)
+- 🔭 I’m currently working on Web4Line as a Full Stack Developer & in RocketPower as a Technical Sourcer
 
-- 🌱 I’m currently learning **more about Kotlin and Java**
+- 🌱 I’m currently learning **more about Golang and Cloud Services**
 
-- 👯 I’m looking to work as a **Mobile Developer**
+- 👯 I’m looking to work as a **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-martinsantiagobarraza.vercel.app/](https://portfolio-martinsantiagobarraza.vercel.app/)
 
-- 💬 Ask me about **Mobile Development and Football**
+- 💬 Ask me about **Databases and Football**
 
 - 📫 How to reach me: **martinsbarraza@gmail.com**
 
