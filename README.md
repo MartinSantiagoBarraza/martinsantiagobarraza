@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsantiagobarraza&label=Profile%20views&color=0e75b6&style=flat" alt="martinsantiagobarraza" /> </p>
 
-- 🔭 I’m currently working on Web4Line as a Full Stack Developer & in RocketPower as a Technical Sourcer
+- 🔭 I’m currently working at RocketPower as a Technical Sourcer
 
 - 🌱 I’m currently learning **more about Golang and Cloud Services**
 
