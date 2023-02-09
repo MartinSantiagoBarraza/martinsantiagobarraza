@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h3 align="center">A passionate Golang developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsantiagobarraza&label=Profile%20views&color=0e75b6&style=flat" alt="martinsantiagobarraza" /> </p>
 
-- 🔭 I’m currently working at RocketPower as a Technical Sourcer
+- 🔭 I’m currently working on Personal Projects
 
-- 🌱 I’m currently learning **more about Golang and Cloud Services**
+- 🌱 I’m learning more about **Golang** and **Cloud Services**
 
-- 👯 I’m looking to work as a **Full Stack Developer**
+- 👯 I’m looking to work as a **Backend Developer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-martinsantiagobarraza.vercel.app/](https://portfolio-martinsantiagobarraza.vercel.app/)
 
