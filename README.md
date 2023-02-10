@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Personal Projects
 
-- 🌱 I’m learning more about **Golang** and **Cloud Services**
+- 🌱 I’m learning more about **Golang**, **Amazon Web Services** and **CI/CD**
 
 - 👯 I’m looking to work as a **Backend Developer**
 
